@@ -70,4 +70,4 @@ Please short your file name and try again!"""
 
 **👥 Group:** [BOT SUPPOTERS](https://t.me/HLS_MEDIA)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+**💻 Source Code:**[Press Me](https://t.me/LoVe_MySeLf_168)"""
